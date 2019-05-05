@@ -31,4 +31,4 @@ depend:
 	$(CC) $(CFLAGS) -c $<
 
 .cpp.o:
-	$(CC) $(CFLAGS) -c
+	$(CC) $(CFLAGS) -c $<
